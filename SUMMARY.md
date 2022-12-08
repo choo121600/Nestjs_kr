@@ -1,7 +1,9 @@
 # Table of contents
 
-* [소개](README.md)
-
 ## 🏃♂ INTRODUCTION
 
-* [Introduction](introduction/introduction.md)
+* [Introduction](README.md)
+
+## 🏃 Overview
+
+* [First Steps](overview/first-steps.md)
